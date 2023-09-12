@@ -1,7 +1,7 @@
 
-# README Generator
-## To be able to easily create READMES for projects through the commandline
-## I built this project so I could have a template readily available to create a README
-## It keeps me from manually having to create a README for each project, I just have to answer the questions.
-## I learned how to dynamically generate files through the command line use node.js and inquirer
-## The simplicity of creating a README.
+# Readme Generator
+## create an easier way to create a readme
+## So I don't have to create a readme from scratch for every project
+## It solves me from needing to figure out what questions need to be answered in a readme each time i create one
+## I learned how to write a file using the command line
+## The simplicity of creating a readme
